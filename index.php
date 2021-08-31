@@ -1,1 +1,0 @@
-<?php include_once("color_game.html"); ?>
